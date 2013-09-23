@@ -1,0 +1,4 @@
+solr-maven
+==========
+
+solr-maven
